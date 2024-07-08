@@ -158,3 +158,6 @@ Ignore
 config --global   text1.txt ~/.gitignore_global
 
 Remove :   git rm --cached  text1.txt
+
+
+Mohammad Ali
